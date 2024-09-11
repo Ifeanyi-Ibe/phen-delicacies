@@ -7,9 +7,6 @@
 /Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Api/bin/Debug/net8.0/PhenDelicacies.Api.pdb
 /Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Api/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
 /Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Api/bin/Debug/net8.0/Microsoft.OpenApi.dll
-/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
-/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
-/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
 /Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Api/obj/Debug/net8.0/PhenDelicacies.Api.csproj.AssemblyReference.cache
 /Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Api/obj/Debug/net8.0/PhenDelicacies.Api.GeneratedMSBuildEditorConfig.editorconfig
 /Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Api/obj/Debug/net8.0/PhenDelicacies.Api.AssemblyInfoInputs.cache
@@ -40,3 +37,4 @@
 /Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Api/bin/Debug/net8.0/PhenDelicacies.Application.pdb
 /Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Api/bin/Debug/net8.0/PhenDelicacies.Infrastructure.pdb
 /Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Api/bin/Debug/net8.0/PhenDelicacies.Domain.pdb
+/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Api/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
