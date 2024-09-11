@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "4T2kFSMsqsKb4e5vmdT7JHLDSJ+XZxJW/SG3AA+CofwCrOkZ7CkzVaTVJlaL0IJ6hBXOGl+VxMlsIFvFdQ2qxw==",
+  "dgSpecHash": "U/a4jMcfOH8Y5XVFTQO9whW2lQfrUVZxjv8C8S3bxPH8NSmy49Y2zmsh9jN63/W1OJh4SfKVeEQ/PWVRFrV5Gw==",
   "success": true,
   "projectFilePath": "/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Infrastructure/PhenDelicacies.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/mac/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.1/microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

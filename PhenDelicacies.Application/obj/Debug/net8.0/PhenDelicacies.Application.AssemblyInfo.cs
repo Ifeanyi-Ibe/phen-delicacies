@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PhenDelicacies.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50c3e47837b5f8cf66aff67b68f0f6216b2dfda2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d8ac106c4bcdc7c56cf6975532ae88f353590ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("PhenDelicacies.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PhenDelicacies.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
