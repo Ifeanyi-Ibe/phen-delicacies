@@ -1,0 +1,12 @@
+/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Domain/bin/Debug/net8.0/PhenDelicacies.Domain.deps.json
+/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Domain/bin/Debug/net8.0/PhenDelicacies.Domain.dll
+/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Domain/bin/Debug/net8.0/PhenDelicacies.Domain.pdb
+/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Domain/obj/Debug/net8.0/PhenDelicacies.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Domain/obj/Debug/net8.0/PhenDelicacies.Domain.AssemblyInfoInputs.cache
+/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Domain/obj/Debug/net8.0/PhenDelicacies.Domain.AssemblyInfo.cs
+/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Domain/obj/Debug/net8.0/PhenDelicacies.Domain.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Domain/obj/Debug/net8.0/PhenDelicacies.Domain.sourcelink.json
+/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Domain/obj/Debug/net8.0/PhenDelicacies.Domain.dll
+/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Domain/obj/Debug/net8.0/refint/PhenDelicacies.Domain.dll
+/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Domain/obj/Debug/net8.0/PhenDelicacies.Domain.pdb
+/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Domain/obj/Debug/net8.0/ref/PhenDelicacies.Domain.dll

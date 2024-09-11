@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhenDelicacies.Api", "PhenDelicacies.Api\PhenDelicacies.Api.csproj", "{D4378D1B-EDEA-4668-A13B-5FE4A0B8A734}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhenDelicacies.Application", "PhenDelicacies.Application\PhenDelicacies.Application.csproj", "{9050D56B-14C3-4CC3-9154-8818148470CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhenDelicacies.Contracts", "PhenDelicacies.Contracts\PhenDelicacies.Contracts.csproj", "{74CF59D5-7BE1-456F-BCC6-29E85CF63F63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhenDelicacies.Domain", "PhenDelicacies.Domain\PhenDelicacies.Domain.csproj", "{88153568-0FF1-4091-8047-29ADDC0C482E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhenDelicacies.Infrastructure", "PhenDelicacies.Infrastructure\PhenDelicacies.Infrastructure.csproj", "{39842869-51E2-4F76-AD96-E6D5158E811E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4378D1B-EDEA-4668-A13B-5FE4A0B8A734}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4378D1B-EDEA-4668-A13B-5FE4A0B8A734}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4378D1B-EDEA-4668-A13B-5FE4A0B8A734}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4378D1B-EDEA-4668-A13B-5FE4A0B8A734}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9050D56B-14C3-4CC3-9154-8818148470CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9050D56B-14C3-4CC3-9154-8818148470CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9050D56B-14C3-4CC3-9154-8818148470CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9050D56B-14C3-4CC3-9154-8818148470CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74CF59D5-7BE1-456F-BCC6-29E85CF63F63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74CF59D5-7BE1-456F-BCC6-29E85CF63F63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74CF59D5-7BE1-456F-BCC6-29E85CF63F63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74CF59D5-7BE1-456F-BCC6-29E85CF63F63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88153568-0FF1-4091-8047-29ADDC0C482E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88153568-0FF1-4091-8047-29ADDC0C482E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88153568-0FF1-4091-8047-29ADDC0C482E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88153568-0FF1-4091-8047-29ADDC0C482E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39842869-51E2-4F76-AD96-E6D5158E811E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39842869-51E2-4F76-AD96-E6D5158E811E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39842869-51E2-4F76-AD96-E6D5158E811E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39842869-51E2-4F76-AD96-E6D5158E811E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
