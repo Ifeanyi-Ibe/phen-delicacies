@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PhenDelicacies.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d8ac106c4bcdc7c56cf6975532ae88f353590ea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+319efed497f19e60394af47e5d3a3d065c69fae8")]
 [assembly: System.Reflection.AssemblyProductAttribute("PhenDelicacies.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PhenDelicacies.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
