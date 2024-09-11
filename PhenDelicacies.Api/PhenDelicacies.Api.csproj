@@ -11,4 +11,10 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\PhenDelicacies.Contracts\PhenDelicacies.Contracts.csproj" />
+    <ProjectReference Include="..\PhenDelicacies.Application\PhenDelicacies.Application.csproj" />
+    <ProjectReference Include="..\PhenDelicacies.Infrastructure\PhenDelicacies.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>

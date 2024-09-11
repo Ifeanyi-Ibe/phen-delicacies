@@ -7,14 +7,40 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "PhenDelicacies.Infrastructure/1.0.0": {
+        "dependencies": {
+          "PhenDelicacies.Application": "1.0.0"
+        },
         "runtime": {
           "PhenDelicacies.Infrastructure.dll": {}
+        }
+      },
+      "PhenDelicacies.Application/1.0.0": {
+        "dependencies": {
+          "PhenDelicacies.Domain": "1.0.0"
+        },
+        "runtime": {
+          "PhenDelicacies.Application.dll": {}
+        }
+      },
+      "PhenDelicacies.Domain/1.0.0": {
+        "runtime": {
+          "PhenDelicacies.Domain.dll": {}
         }
       }
     }
   },
   "libraries": {
     "PhenDelicacies.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PhenDelicacies.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PhenDelicacies.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

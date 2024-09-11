@@ -10,3 +10,7 @@
 /Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Application/obj/Debug/net8.0/refint/PhenDelicacies.Application.dll
 /Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Application/obj/Debug/net8.0/PhenDelicacies.Application.pdb
 /Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Application/obj/Debug/net8.0/ref/PhenDelicacies.Application.dll
+/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Application/bin/Debug/net8.0/PhenDelicacies.Domain.dll
+/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Application/bin/Debug/net8.0/PhenDelicacies.Domain.pdb
+/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Application/obj/Debug/net8.0/PhenDelicacies.Application.csproj.AssemblyReference.cache
+/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Application/obj/Debug/net8.0/PhenDeli.1B08DA77.Up2Date

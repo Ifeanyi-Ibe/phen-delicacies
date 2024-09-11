@@ -1,11 +1,48 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "PhenDelicacies.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "PhenDelicacies.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PhenDelicacies.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PhenDelicacies.Application.dll": {}
+        }
+      },
+      "PhenDelicacies.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/PhenDelicacies.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PhenDelicacies.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "PhenDelicacies.Application/1.0.0": {
+      "type": "project",
+      "path": "../PhenDelicacies.Application/PhenDelicacies.Application.csproj",
+      "msbuildProject": "../PhenDelicacies.Application/PhenDelicacies.Application.csproj"
+    },
+    "PhenDelicacies.Domain/1.0.0": {
+      "type": "project",
+      "path": "../PhenDelicacies.Domain/PhenDelicacies.Domain.csproj",
+      "msbuildProject": "../PhenDelicacies.Domain/PhenDelicacies.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "PhenDelicacies.Application >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/mac/.nuget/packages/": {}
@@ -31,7 +68,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Application/PhenDelicacies.Application.csproj": {
+              "projectPath": "/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Application/PhenDelicacies.Application.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

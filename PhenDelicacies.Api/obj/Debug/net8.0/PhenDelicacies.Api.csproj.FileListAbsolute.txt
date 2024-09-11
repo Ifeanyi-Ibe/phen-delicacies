@@ -32,3 +32,11 @@
 /Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Api/obj/Debug/net8.0/PhenDelicacies.Api.pdb
 /Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Api/obj/Debug/net8.0/PhenDelicacies.Api.genruntimeconfig.cache
 /Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Api/obj/Debug/net8.0/ref/PhenDelicacies.Api.dll
+/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Api/bin/Debug/net8.0/PhenDelicacies.Application.dll
+/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Api/bin/Debug/net8.0/PhenDelicacies.Contracts.dll
+/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Api/bin/Debug/net8.0/PhenDelicacies.Domain.dll
+/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Api/bin/Debug/net8.0/PhenDelicacies.Infrastructure.dll
+/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Api/bin/Debug/net8.0/PhenDelicacies.Contracts.pdb
+/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Api/bin/Debug/net8.0/PhenDelicacies.Application.pdb
+/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Api/bin/Debug/net8.0/PhenDelicacies.Infrastructure.pdb
+/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Api/bin/Debug/net8.0/PhenDelicacies.Domain.pdb
