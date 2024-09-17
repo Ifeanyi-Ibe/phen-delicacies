@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Api/PhenDelicacies.Api.csproj": {}
+    "/Users/ifeanyi-ibe/Desktop/phen-delicacies/PhenDelicacies.Api/PhenDelicacies.Api.csproj": {}
   },
   "projects": {
-    "/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Api/PhenDelicacies.Api.csproj": {
+    "/Users/ifeanyi-ibe/Desktop/phen-delicacies/PhenDelicacies.Api/PhenDelicacies.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Api/PhenDelicacies.Api.csproj",
+        "projectUniqueName": "/Users/ifeanyi-ibe/Desktop/phen-delicacies/PhenDelicacies.Api/PhenDelicacies.Api.csproj",
         "projectName": "PhenDelicacies.Api",
-        "projectPath": "/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Api/PhenDelicacies.Api.csproj",
-        "packagesPath": "/Users/mac/.nuget/packages/",
-        "outputPath": "/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Api/obj/",
+        "projectPath": "/Users/ifeanyi-ibe/Desktop/phen-delicacies/PhenDelicacies.Api/PhenDelicacies.Api.csproj",
+        "packagesPath": "/Users/ifeanyi-ibe/.nuget/packages/",
+        "outputPath": "/Users/ifeanyi-ibe/Desktop/phen-delicacies/PhenDelicacies.Api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/mac/.nuget/NuGet/NuGet.Config"
+          "/Users/ifeanyi-ibe/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -26,14 +26,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Application/PhenDelicacies.Application.csproj": {
-                "projectPath": "/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Application/PhenDelicacies.Application.csproj"
+              "/Users/ifeanyi-ibe/Desktop/phen-delicacies/PhenDelicacies.Application/PhenDelicacies.Application.csproj": {
+                "projectPath": "/Users/ifeanyi-ibe/Desktop/phen-delicacies/PhenDelicacies.Application/PhenDelicacies.Application.csproj"
               },
-              "/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Contracts/PhenDelicacies.Contracts.csproj": {
-                "projectPath": "/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Contracts/PhenDelicacies.Contracts.csproj"
+              "/Users/ifeanyi-ibe/Desktop/phen-delicacies/PhenDelicacies.Contracts/PhenDelicacies.Contracts.csproj": {
+                "projectPath": "/Users/ifeanyi-ibe/Desktop/phen-delicacies/PhenDelicacies.Contracts/PhenDelicacies.Contracts.csproj"
               },
-              "/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Infrastructure/PhenDelicacies.Infrastructure.csproj": {
-                "projectPath": "/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Infrastructure/PhenDelicacies.Infrastructure.csproj"
+              "/Users/ifeanyi-ibe/Desktop/phen-delicacies/PhenDelicacies.Infrastructure/PhenDelicacies.Infrastructure.csproj": {
+                "projectPath": "/Users/ifeanyi-ibe/Desktop/phen-delicacies/PhenDelicacies.Infrastructure/PhenDelicacies.Infrastructure.csproj"
               }
             }
           }
@@ -42,11 +42,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -85,21 +80,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/8.0.4/libexec/sdk/8.0.104/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Application/PhenDelicacies.Application.csproj": {
+    "/Users/ifeanyi-ibe/Desktop/phen-delicacies/PhenDelicacies.Application/PhenDelicacies.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Application/PhenDelicacies.Application.csproj",
+        "projectUniqueName": "/Users/ifeanyi-ibe/Desktop/phen-delicacies/PhenDelicacies.Application/PhenDelicacies.Application.csproj",
         "projectName": "PhenDelicacies.Application",
-        "projectPath": "/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Application/PhenDelicacies.Application.csproj",
-        "packagesPath": "/Users/mac/.nuget/packages/",
-        "outputPath": "/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Application/obj/",
+        "projectPath": "/Users/ifeanyi-ibe/Desktop/phen-delicacies/PhenDelicacies.Application/PhenDelicacies.Application.csproj",
+        "packagesPath": "/Users/ifeanyi-ibe/.nuget/packages/",
+        "outputPath": "/Users/ifeanyi-ibe/Desktop/phen-delicacies/PhenDelicacies.Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/mac/.nuget/NuGet/NuGet.Config"
+          "/Users/ifeanyi-ibe/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -111,8 +106,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Domain/PhenDelicacies.Domain.csproj": {
-                "projectPath": "/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Domain/PhenDelicacies.Domain.csproj"
+              "/Users/ifeanyi-ibe/Desktop/phen-delicacies/PhenDelicacies.Domain/PhenDelicacies.Domain.csproj": {
+                "projectPath": "/Users/ifeanyi-ibe/Desktop/phen-delicacies/PhenDelicacies.Domain/PhenDelicacies.Domain.csproj"
               }
             }
           }
@@ -121,11 +116,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -153,21 +143,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/8.0.4/libexec/sdk/8.0.104/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Contracts/PhenDelicacies.Contracts.csproj": {
+    "/Users/ifeanyi-ibe/Desktop/phen-delicacies/PhenDelicacies.Contracts/PhenDelicacies.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Contracts/PhenDelicacies.Contracts.csproj",
+        "projectUniqueName": "/Users/ifeanyi-ibe/Desktop/phen-delicacies/PhenDelicacies.Contracts/PhenDelicacies.Contracts.csproj",
         "projectName": "PhenDelicacies.Contracts",
-        "projectPath": "/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Contracts/PhenDelicacies.Contracts.csproj",
-        "packagesPath": "/Users/mac/.nuget/packages/",
-        "outputPath": "/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Contracts/obj/",
+        "projectPath": "/Users/ifeanyi-ibe/Desktop/phen-delicacies/PhenDelicacies.Contracts/PhenDelicacies.Contracts.csproj",
+        "packagesPath": "/Users/ifeanyi-ibe/.nuget/packages/",
+        "outputPath": "/Users/ifeanyi-ibe/Desktop/phen-delicacies/PhenDelicacies.Contracts/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/mac/.nuget/NuGet/NuGet.Config"
+          "/Users/ifeanyi-ibe/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -185,11 +175,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -211,21 +196,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/8.0.4/libexec/sdk/8.0.104/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Domain/PhenDelicacies.Domain.csproj": {
+    "/Users/ifeanyi-ibe/Desktop/phen-delicacies/PhenDelicacies.Domain/PhenDelicacies.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Domain/PhenDelicacies.Domain.csproj",
+        "projectUniqueName": "/Users/ifeanyi-ibe/Desktop/phen-delicacies/PhenDelicacies.Domain/PhenDelicacies.Domain.csproj",
         "projectName": "PhenDelicacies.Domain",
-        "projectPath": "/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Domain/PhenDelicacies.Domain.csproj",
-        "packagesPath": "/Users/mac/.nuget/packages/",
-        "outputPath": "/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Domain/obj/",
+        "projectPath": "/Users/ifeanyi-ibe/Desktop/phen-delicacies/PhenDelicacies.Domain/PhenDelicacies.Domain.csproj",
+        "packagesPath": "/Users/ifeanyi-ibe/.nuget/packages/",
+        "outputPath": "/Users/ifeanyi-ibe/Desktop/phen-delicacies/PhenDelicacies.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/mac/.nuget/NuGet/NuGet.Config"
+          "/Users/ifeanyi-ibe/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -243,11 +228,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -269,21 +249,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/8.0.4/libexec/sdk/8.0.104/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Infrastructure/PhenDelicacies.Infrastructure.csproj": {
+    "/Users/ifeanyi-ibe/Desktop/phen-delicacies/PhenDelicacies.Infrastructure/PhenDelicacies.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Infrastructure/PhenDelicacies.Infrastructure.csproj",
+        "projectUniqueName": "/Users/ifeanyi-ibe/Desktop/phen-delicacies/PhenDelicacies.Infrastructure/PhenDelicacies.Infrastructure.csproj",
         "projectName": "PhenDelicacies.Infrastructure",
-        "projectPath": "/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Infrastructure/PhenDelicacies.Infrastructure.csproj",
-        "packagesPath": "/Users/mac/.nuget/packages/",
-        "outputPath": "/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Infrastructure/obj/",
+        "projectPath": "/Users/ifeanyi-ibe/Desktop/phen-delicacies/PhenDelicacies.Infrastructure/PhenDelicacies.Infrastructure.csproj",
+        "packagesPath": "/Users/ifeanyi-ibe/.nuget/packages/",
+        "outputPath": "/Users/ifeanyi-ibe/Desktop/phen-delicacies/PhenDelicacies.Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/mac/.nuget/NuGet/NuGet.Config"
+          "/Users/ifeanyi-ibe/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -295,8 +275,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Application/PhenDelicacies.Application.csproj": {
-                "projectPath": "/Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Application/PhenDelicacies.Application.csproj"
+              "/Users/ifeanyi-ibe/Desktop/phen-delicacies/PhenDelicacies.Application/PhenDelicacies.Application.csproj": {
+                "projectPath": "/Users/ifeanyi-ibe/Desktop/phen-delicacies/PhenDelicacies.Application/PhenDelicacies.Application.csproj"
               }
             }
           }
@@ -305,11 +285,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -345,7 +320,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/8.0.4/libexec/sdk/8.0.104/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
