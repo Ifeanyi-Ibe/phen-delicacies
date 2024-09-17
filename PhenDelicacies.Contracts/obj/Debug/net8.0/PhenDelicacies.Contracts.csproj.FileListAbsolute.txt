@@ -10,3 +10,15 @@
 /Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Contracts/obj/Debug/net8.0/refint/PhenDelicacies.Contracts.dll
 /Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Contracts/obj/Debug/net8.0/PhenDelicacies.Contracts.pdb
 /Users/mac/Desktop/C#/phen-delicacies/PhenDelicacies.Contracts/obj/Debug/net8.0/ref/PhenDelicacies.Contracts.dll
+/Users/ifeanyi-ibe/Desktop/phen-delicacies/PhenDelicacies.Contracts/bin/Debug/net8.0/PhenDelicacies.Contracts.deps.json
+/Users/ifeanyi-ibe/Desktop/phen-delicacies/PhenDelicacies.Contracts/bin/Debug/net8.0/PhenDelicacies.Contracts.dll
+/Users/ifeanyi-ibe/Desktop/phen-delicacies/PhenDelicacies.Contracts/bin/Debug/net8.0/PhenDelicacies.Contracts.pdb
+/Users/ifeanyi-ibe/Desktop/phen-delicacies/PhenDelicacies.Contracts/obj/Debug/net8.0/PhenDelicacies.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ifeanyi-ibe/Desktop/phen-delicacies/PhenDelicacies.Contracts/obj/Debug/net8.0/PhenDelicacies.Contracts.AssemblyInfoInputs.cache
+/Users/ifeanyi-ibe/Desktop/phen-delicacies/PhenDelicacies.Contracts/obj/Debug/net8.0/PhenDelicacies.Contracts.AssemblyInfo.cs
+/Users/ifeanyi-ibe/Desktop/phen-delicacies/PhenDelicacies.Contracts/obj/Debug/net8.0/PhenDelicacies.Contracts.csproj.CoreCompileInputs.cache
+/Users/ifeanyi-ibe/Desktop/phen-delicacies/PhenDelicacies.Contracts/obj/Debug/net8.0/PhenDelicacies.Contracts.sourcelink.json
+/Users/ifeanyi-ibe/Desktop/phen-delicacies/PhenDelicacies.Contracts/obj/Debug/net8.0/PhenDelicacies.Contracts.dll
+/Users/ifeanyi-ibe/Desktop/phen-delicacies/PhenDelicacies.Contracts/obj/Debug/net8.0/refint/PhenDelicacies.Contracts.dll
+/Users/ifeanyi-ibe/Desktop/phen-delicacies/PhenDelicacies.Contracts/obj/Debug/net8.0/PhenDelicacies.Contracts.pdb
+/Users/ifeanyi-ibe/Desktop/phen-delicacies/PhenDelicacies.Contracts/obj/Debug/net8.0/ref/PhenDelicacies.Contracts.dll
